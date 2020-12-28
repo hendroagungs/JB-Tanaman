@@ -57,10 +57,18 @@ body{
 	background-color: grey;
 }
 
-.gambarlogo {
-	width: 700px;
-	height: 400px;
+.gambarbunga{
+	width:100%;
+	height:50%;
 }
+.backgroundhijau {
+	background-color: green;
+}
+
+.backgroundpink {
+	background-color: pink;
+}
+
 .text-thin{
 	font-weight: 200;
 }
